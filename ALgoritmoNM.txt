@@ -1,0 +1,14 @@
+ALgoritmo Numero mayor entre tres cantidades
+Inicio
+	Variables: Num1, Num2, Num3, NM
+Proceso
+ 	Escribir ("Digite 3 numeros enteros:")
+	Leer (Num1, Num2, Num3)
+	Si "Num1>Num2" entonces "EL mayor es "Num1=NM"" 
+	Sino 
+	Si "Num2>Num3" si entonces "El mayor es "Num2=NM""
+	Sino 
+	"EL mayor es "Num3=NM""
+	escribir ("El numero mayor es:", NM)
+Termina
+	
